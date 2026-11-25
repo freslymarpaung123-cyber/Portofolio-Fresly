@@ -335,6 +335,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .contact-link-primary { border-color: transparent; color: #061324; background: #35b8ed; box-shadow: 0 12px 30px rgba(27, 159, 220, .2); }
 .contact-link-primary:hover { border-color: transparent; color: #061324; background: #51c7f5; }
 .contact-link-icon { color: #32b9f1; font-size: 21px; line-height: 1; }
+.contact-link-icon svg { display: block; width: 22px; height: 22px; }
 .contact-link-primary .contact-link-icon { color: #061324; }
 .site-footer { padding: 23px 0; border-top: 1px solid rgba(147, 180, 255, .1); background: rgba(3, 7, 19, .8); }
 .footer-inner { display: flex; align-items: center; justify-content: space-between; gap: 20px; }.footer-brand { font-size: 11px; }.footer-brand .brand-mark { width: 29px; height: 29px; font-size: 12px; }.footer-inner p, .footer-inner > span { margin: 0; color: #6f80a3; font-size: 9px; }
