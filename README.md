@@ -23,7 +23,7 @@ Website portfolio personal Fresly Gabriel Marpaung dengan gaya **Interactive Spa
 
 ## Proyek yang ditampilkan
 
-1. Website Resmi Kabupaten Administrasi Kepulauan Seribu (Pulo1000) — Proyek Magang.
+1. Website Resmi Kabupaten Administrasi Kepulauan Seribu — Proyek Magang.
 2. Aplikasi Mobile Jasa Sedot WC — Proyek Bootcamp (Tim).
 3. Sistem Penggajian — Proyek Akademik.
 4. Desain Visual dan Grafis — Proyek Akademik.
