@@ -209,7 +209,7 @@
   const projectDetails = {
     pulo: {
       label: 'PROYEK MAGANG · FRONT-END DEVELOPMENT',
-      title: 'Website Resmi Kabupaten Administrasi Kepulauan Seribu (Pulo1000)',
+      title: 'Website Resmi Kabupaten Administrasi Kepulauan Seribu',
       description: 'Pengembangan antarmuka website resmi Kabupaten Administrasi Kepulauan Seribu dengan mengimplementasikan rancangan Figma menjadi halaman web fungsional.',
       contributions: [
         'Mengimplementasikan rancangan antarmuka menggunakan HTML, CSS, dan JavaScript.',
